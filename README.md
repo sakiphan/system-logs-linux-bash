@@ -24,7 +24,7 @@ The following log files are collected by the script:
 1. **Clone the repository or download the script:**
 
    ```bash
-   git clone https://github.com/sakiphan/system-logs-linux-bash
+   git clone https://github.com/sakiphan/system-logs-linux-bash.git
    cd system-logs-linux-bash
    ```
 
